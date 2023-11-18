@@ -1,0 +1,9 @@
+//const accountId=54
+let accountEmail="mahima@google.com"
+var accountPassword="12345"
+ let accountState
+
+accountEmail="pyq@google.com"
+ accountPassword="56789"
+
+console.table([accountEmail,accountPassword, accountState])
